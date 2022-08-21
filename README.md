@@ -1,6 +1,3 @@
-<h1 align="center">music-website</h1>
-
-<br/>
 
 <h1 align="center"><font color="red">Music player app</font></h1>
 
