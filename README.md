@@ -8,11 +8,11 @@
 ## Project preview
 
 > Website screen shot
-![Preview1](./assets/img/screenshot/Screenshot%202022-08-22%20000000.png)
-![Preview1](./assets/img/screenshot/Screenshot%202022-08-22%20000025.png)
-![Preview1](./assets/img/screenshot/Screenshot%202022-08-22%20000040.png)
-![Preview1](./assets/img/screenshot/Screenshot%202022-08-22%20000101.png)
-![Preview1](./assets/img/screenshot/Screenshot%202022-08-22%20000111.png)
+![Preview1](./assets/img/screenshot/Screenshot%202022-08-22%20000000.png)<br/>
+![Preview1](./assets/img/screenshot/Screenshot%202022-08-22%20000025.png)<br/>
+![Preview1](./assets/img/screenshot/Screenshot%202022-08-22%20000040.png)<br/>
+![Preview1](./assets/img/screenshot/Screenshot%202022-08-22%20000101.png)<br/>
+![Preview1](./assets/img/screenshot/Screenshot%202022-08-22%20000111.png)<br/>
 
 
 ## Download and run 
