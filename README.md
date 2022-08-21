@@ -1,5 +1,5 @@
 
-<h1 align="center"><font color="red">Music player app</font></h1>
+<h1 align="center"><font color="red">Music player app :musical_note:</font></h1>
 
 
 ## Project preview
